@@ -18,6 +18,7 @@ class RAGMatcher:
                 input=text,
                 model="text-embedding-3-small"
             )
+            print("Embedding response:", response)
             return response.data[0].embedding
         except Exception as e:
             logger.error(f"Error getting embedding: {e}")

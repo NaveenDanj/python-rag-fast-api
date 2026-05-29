@@ -46,4 +46,5 @@ Session Details:
 - Speaker: {session['speaker']}
 - Description: {session['description']}
 
+include the company name as Cogent Solutions Event Marketing Pvt Ltd no need to add other placeholders
 Write a 3-sentence professional invitation email:"""
