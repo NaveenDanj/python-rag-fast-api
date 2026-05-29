@@ -1,0 +1,85 @@
+ACCELALPHA-ORACLE-2024
+EVENT: Troubled Waters: Sailing with AI in Supply Chain
+
+
+SESSION LISTING FOR INTELLIGENT ROUTING & USER PERSONALIZATION:
+
+
+[SESSION_1]
+Time: 09:30 AM - 10:00 AM
+Title: Registrations
+Speaker: Event Operations Team
+Focus Keywords: check-in, reception, badging, entry.
+Description: Morning arrival, check-in, and badge collection for registered executive delegates and partners.
+
+
+[SESSION_2]
+Time: 10:00 AM - 10:10 AM
+Title: Welcome Note
+Speaker: Richard Buxton (VP EMEA, Accelalpha) & Rohan Chitnis (Sales Director Applications, Oracle)
+Focus Keywords: opening remarks, welcome, event launch, strategic partnership overview.
+Description: An introduction and official welcome to the summit by leadership figures from Accelalpha and Oracle, outlining the key themes of regional supply chain evolution.
+
+
+[SESSION_3]
+Time: 10:10 AM - 10:40 AM
+Title: Industry Keynote (Outlook & Challenges on Digital Logistics & Supply Chain)
+Speaker: Srivatsav Sarvepalli (Regional Director, Supply Chain Solutions, ECEMEA, Oracle)
+Focus Keywords: digital logistics, gulf supply chain pressures, cost reduction, rising operational expenses, market volatility, future-proofing transportation.
+Description: This high-level industry keynote maps out the current market challenges impacting Gulf regional logistics, focusing on rising costs, macroeconomic changes, and how to build a responsive digital framework.
+
+
+[SESSION_4]
+Time: 10:40 AM - 11:10 AM
+Title: A Practical Guide to Successful Implementation
+Speaker: Joe Spear (Partner, Accelalpha)
+Focus Keywords: system implementation guide, risk management, deployment strategies, software integration milestones, avoiding failure.
+Description: A down-to-earth breakdown detailing how modern organizations successfully deploy and integrate enterprise logistics and SCM platforms safely without interrupting ongoing operations.
+
+
+[SESSION_5]
+Time: 11:10 AM - 11:30 AM
+Title: The Resilient Supply Chain & SCM Innovations
+Speaker: Ujjwal Kumar (Principal Domain Lead, ECEMEA, Oracle)
+Focus Keywords: Oracle Gen AI platform, predictive analytics, automated warehousing, smart SCM systems, modern visibility tools.
+Description: Unveiling Oracle's Gen AI SCM Platform capabilities. Discover how predictive analytics, embedded AI automation, and deep inventory tracking help software systems anticipate disruption before it impacts the bottom line.
+
+
+[SESSION_6]
+Time: 11:30 AM - 11:50 AM
+Title: Coffee Break
+Speaker: Networking Team
+Focus Keywords: intermission, coffee, mid-morning break, informal meetup.
+Description: Short intermission for refreshments, informal discussion, and brief peer-to-peer networking.
+
+
+[SESSION_7]
+Time: 11:50 AM - 12:10 PM
+Title: Insights from Digital Evolution
+Speaker: Dr. Raman Kumar (CEO, Al-Futtaim Logistics)
+Focus Keywords: corporate digital evolution, practical execution, automation results, warehouse management scalability.
+Description: Real-world practical insights shared from the top of the logistics sector on how to navigate large-scale corporate automation and digital transformations successfully.
+
+
+[SESSION_8]
+Time: 12:10 PM - 12:40 PM
+Title: Strategies in Action: Insights from Industry Leaders
+Speaker: Panel Discussion featuring David Moono (Global Logistics Manager, Weatherford) & Tamer Hamed (CIO, Dubai Cable Company)
+Focus Keywords: panel debate, real-world case studies, last-mile challenges, green operations, sustainable sourcing, inventory tracking.
+Description: Interactive panel discussion featuring operational executives sharing their raw case studies, supply chain resilience tactics, and ways to handle green sustainability targets without losing operational momentum.
+
+
+[SESSION_9]
+Time: 12:40 PM - 01:00 PM
+Title: Q&A and Closing Remarks
+Speaker: Accelalpha Team
+Focus Keywords: open floor questions, concluding summaries, closing remarks, future updates.
+Description: Floor opened up to audience members for burning inquiries, wrapped up with final strategic takeaways from the hosting team.
+
+
+[SESSION_10]
+Time: 01:00 PM - Onwards
+Title: Lunch & Networking
+Speaker: Event Catering Group
+Focus Keywords: closing lunch, corporate networking, business development, personal introductions.
+Description: A dedicated networking lunch allowing delegates, technology partners, and technical leads to connect directly over real opportunities.
