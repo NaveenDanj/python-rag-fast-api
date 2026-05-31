@@ -48,12 +48,12 @@ class InvitationService:
                 focus
             )
             
-            await self.email_generator.send_email(
-                to_email=email,
-                subject=f"Invitation to {session['name']} Session",
-                body=email_body,
-                is_html=False
-            )
+            # await self.email_generator.send_email(
+            #     to_email=email,
+            #     subject=f"Invitation to {session['name']} Session",
+            #     body=email_body,
+            #     is_html=False
+            # )
             
             timestamp = datetime.utcnow().isoformat() + "Z"
             
