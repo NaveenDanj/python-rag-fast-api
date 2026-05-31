@@ -11,8 +11,15 @@ logger = logging.getLogger("app")
 
 class InvitationService:
     
-    def __init__(self, agenda_file_path: str, openai_api_key: str):
-        self.client = OpenAI(api_key=openai_api_key)        
+    def __init__(self, agenda_file_path: str, openai_api_key: str, openai_base_url: str | None = None):
+        if not openai_api_key:
+            raise ValueError("OPENAI_API_KEY is required. Set it as a runtime environment variable when running in Docker.")
+
+        client_kwargs = {"api_key": openai_api_key}
+        if openai_base_url:
+            client_kwargs["base_url"] = openai_base_url
+
+        self.client = OpenAI(**client_kwargs)
         self.agenda = AgendaManager(agenda_file_path)
         self.rag_matcher = RAGMatcher(self.client, self.agenda.get_all_sessions())
         self.email_generator = EmailGenerator(self.client)

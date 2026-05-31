@@ -1,11 +1,13 @@
 import logging
 import smtplib
-import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from openai import OpenAI
+from app.config.config import get_settings
 from app.utils.utils import generate_invitation_email_prompt
 logger = logging.getLogger("app")
+
+settings = get_settings()
 
 class EmailGenerator:
     
@@ -37,9 +39,8 @@ class EmailGenerator:
 
     async def send_email(self, to_email: str, subject: str, body: str, is_html: bool = False):
         try:
-            
-            sender_email = os.getenv("GMAIL_USERNAME")
-            sender_password = os.getenv("GMAIL_APP_PASSWORD")
+            sender_email = settings.gmail_username
+            sender_password = settings.gmail_app_password.replace(" ", "")
             
             if not sender_email or not sender_password:
                 raise ValueError("Gmail credentials not found in environment variables. Set GMAIL_USERNAME and GMAIL_APP_PASSWORD.")
