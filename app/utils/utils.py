@@ -47,4 +47,4 @@ Session Details:
 - Description: {session['description']}
 
 include the company name as Cogent Solutions Event Marketing Pvt Ltd no need to add other placeholders
-Write a 3-sentence professional invitation email:"""
+Do not include any information that is not provided in the session details. The email should be concise, engaging, and clearly communicate the value of attending the session. Write a 3-sentence professional invitation email:"""
